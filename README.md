@@ -26,7 +26,7 @@ The code performs the following steps which are explained in detail below:
 
 <h1 id=contents>Repository and Script Contents</h1>
 
-This repository includes a <i>ProjectAssignment.R</i> script which contains the code used in this project to analyse the data. Additional files in the repository include the README.md. 
+This repository includes a <i>run_Analysis.R</i> script which contains the code used in this project to analyse the data. Additional files in the repository include the README.md. 
 
 Code book:
 
